@@ -1,1 +1,7 @@
-Placeholder for code snippets
+# 💻 Code Repositories
+
+This directory contains clean copies of the data transformation scripts written during the sprint.
+
+## 🛠️ Stack
+* **PySpark:** Data cleaning, parsing, and complex object joins inside Foundry Code Repositories.
+* **SQL:** Relational transformations and initial view schemas.

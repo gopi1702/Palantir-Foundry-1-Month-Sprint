@@ -1,0 +1,8 @@
+# 📂 Documentation
+
+This directory contains the architecture notes, data models, and platform observations gathered during the 4-week Palantir Foundry sprint.
+
+## 🧱 Core Concepts Logged
+* **Foundry Ontology:** Notes on object types, properties, and many-to-many/one-to-many link definitions.
+* **Data Lineage:** Tracing how raw source datasets map to production objects.
+* **Security & Markings:** Best practices implemented for column-level and dataset-level security access.

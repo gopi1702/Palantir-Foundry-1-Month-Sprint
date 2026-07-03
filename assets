@@ -1,0 +1,8 @@
+# 🎨 Project Assets
+
+This directory holds the visual evidence of the Foundry applications developed during the sprint. Since the live sandbox cannot be shared publicly, these assets serve as visual proof-of-work.
+
+## 🖼️ Included Media
+* **Architecture Diagrams:** Visual flows mapping raw data sources to the target Ontology.
+* **Pipeline Builder Graphs:** Visual data lineage and transform flows.
+* **Workshop Apps:** Screenshots of the completed front-end applications, dashboards, and Action buttons.
